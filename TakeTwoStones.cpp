@@ -9,8 +9,8 @@
  
 using namespace std;
 
-int main()
-{
+int main() {
+ 
   int num;
   cin >> num;
   
@@ -19,6 +19,6 @@ int main()
   } else {
       cout << "Alice";
   }
-
+ 
   return 0;
 }
